@@ -1,0 +1,48 @@
+# Composer dependencies
+/vendor/
+
+# Composer auth file
+auth.json
+
+# PHP Storm project files
+.idea/
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+.env.backup
+
+# Homestead files
+Homestead.json
+Homestead.yaml
+
+# PHP Unit cache
+.phpunit.result.cache
+
+# Logs
+*.log
+
+# Cache files
+*.cache
+
+# Backup files
+*.bak
+
+# Session files
+/sessions/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
